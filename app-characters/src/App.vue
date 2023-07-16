@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Personajes from './components/Personajes.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Fainner Ramirez" />
+  <Personajes />
 </template>
 
 <style scoped>
